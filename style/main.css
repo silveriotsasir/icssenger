@@ -1,0 +1,28 @@
+.panel-body{
+    height:500px!important;
+    overflow: auto;
+}
+
+.jumbotron{
+    background-color:#337AB7;
+    color: whitesmoke;
+}
+
+.username{
+    background-color: #337AB7;
+    border: 0px;
+    font-size: 20px;
+}
+
+.message_user{
+	text-align: left;
+	padding: 10px;
+	margin: 3px;
+    background-color: rgba(37, 211, 101, 0.308);
+    border-radius: 40px;
+}
+
+
+
+
+
